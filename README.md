@@ -8,11 +8,9 @@ Remember, some of these projects are easier than others. If you get to a hard bi
 
 All of these are in ZCW-Summer25 
 
-- [ ] [Number Triangles Tables](https://github.com/ZCW-Fall25/NumbersTrianglesTables)
-- [ ] [Strings & Things](https://github.com/ZCW-Fall25/StringsAndThings)
-- [ ] [Hamurabi - java](https://github.com/ZCW-Fall25/hamurabi)
-- [ ] [Hamurabi - python](https://github.com/ZCW-Fall25/hamurabi-py)
-- [ ] [DiceyLab](https://github.com/ZCW-Fall25/DiceyLab)
-- [ ] [PhoneBook](https://github.com/ZCW-Fall25/PhoneBook)
-- [ ] [Mars Lander - java](https://github.com/ZCW-Fall25/Zip-MarsLander)
-- [ ] [Mars Lander - python](https://github.com/ZCW-Fall25/Zip-MarsLander-py)
+- [ ] [Number Triangles Tables](https://github.com/stephen-lu/NumbersTrianglesTables)
+- [ ] [Strings & Things](https://github.com/stephen-lu/StringsAndThings)
+- [ ] [Hammurabi - java](https://github.com/stephen-lu/hammurabi)
+- [ ] [DiceyLab](https://github.com/stephen-lu/DiceyLab)
+- [ ] [PhoneBook](https://github.com/stephen-lu/PhoneBook)
+- [ ] [Mars Lander - java](https://github.com/stephen-lu/Zip-MarsLander)
